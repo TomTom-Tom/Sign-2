@@ -27,7 +27,7 @@ Bandit Bringer now tumbles, similar to AC
 Leo Whitefang:
 Fdash has no collision, left right mixups
 [4]6S is a new short sonic boom
-[4]6H is small sonic boom, has less frame advantage compared to 2[6] S
+[4]6H is small sonic boom, has less frame advantage compared to 4[6]S
 [4]6D is heavy sonic boom
 [4]6D > 4D is a new forcebreak, used defensively to keep people at a range
 236H in the air now knocks people up allowing for great oki

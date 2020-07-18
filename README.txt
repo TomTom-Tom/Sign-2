@@ -19,26 +19,29 @@ Goodbye Ground Viper
 Hello Grand Viper, similar to +R
 Gunflame vacuums on hit
 WT can grab during hitstun, allowing for extensions
-Fafnir no longer tumbles, but gives a slight knockup
+Fafnir no longer tumbles, but wall bounces in corner
 Bandit Bringer now tumbles, similar to AC
-236P in the air is now Bandit Bringer, similar to Strive
-236K after Air Volcanic Viper HS is a new forcebreak, ground bounces for an extension
+j.236P is now Bandit Bringer, similar to Strive
+j.236K after Air Volcanic Viper HS is a new forcebreak, ground bounces for an extension
 
 Leo Whitefang:
 Fdash has no collision, left right mixups
-[4]6S is a new short sonic boom
-[4]6H is small sonic boom, has less frame advantage compared to 4[6]S
+[4]6S is a small sonic boom
+[4]6H is medium sonic boom, has less frame advantage compared to 4[6]S
 [4]6D is heavy sonic boom
 [4]6D > 4D is a new forcebreak, used defensively to keep people at a range
-236H in the air now knocks people up allowing for great oki
+j.236H now knocks people up allowing for great oki
 
 Ky Kiske:
 New 6HS
+236K now floats, ground bounces on CH
 214D is now FB Greed Sever, similar to +R
+j.214D is now Stun Rays, similar to +R
 
 Millia Rage:
 New j.H
 Silent Force Knife is quite large
+j.214H removed
 
 ---------------------------
 
